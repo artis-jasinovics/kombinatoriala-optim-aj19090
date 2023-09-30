@@ -1,0 +1,10 @@
+Jūs esat ofisa administrators vidēja izmēra uzņēmumam, kuram ir vairākas dažāda izmēra sanāksmju telpas. Uzņēmuma darbiniekiem nedēļas griezumā ir jārezervē šīs telpas sanāksmēm, prezentācijām utt. Katrai sanāksmei ir noteikti ierobežojumi attiecībā uz telpas lielumu (vai citas ne tehniskas vajadzības), tehnoloģiskajām vajadzībām (piemēram, projektoru vai videokonferenci) un laiku.
+
+Ņemot vērā ierobežojumus, jums kā ofisa administratoram jāizveido nedēļas grafiks, ņemot vērā ierobežojumus:
+
+     Telpas ierobežojums: telpa ir pietiekami liela, lai tajā varētu piedalīties visi sanāksmē. Piemēram sapulce, kurā paredzēts piedalīties 10 personām, nevar būt 5 cilvēku telpā.
+     Tehnoloģiskais ierobežojums: ja komandai ir nepieciešamas videokonferenču iespējas, tai ir jāpiešķir telpa ar šādām iespējām.
+     Laika ierobežojums: istabu nevar rezervēt divas komandas vienlaikus. Ja komanda A rezervēja istabu no pulksten 10:00 līdz 11:00, komanda B nevar rezervēt to pašu istabu šajā laika posmā.
+     Īpašas prasības: dažām sanāksmēm var būt unikālas vajadzības, piemēram, tāfele, specializēta programmatūra vai pat īpašs sēdvietu izvietojums.
+     Atstarpes laiks: pēc sapulces beigām pirms nākamās sapulces sākuma ir jābūt vismaz 15 minūšu atstarpei, lai to iestatītu un izvairītos no dalībnieku pārklāšanās savstarpējo sapulču dēļ.
+     Darbinieku pieejamība: nodrošiniet, lai visi paredzamie dalībnieki būtu pieejami plānotajā sapulces laikā, nevis atvaļinājumā vai citā sanāksmē. Darbinieki var būt vairākās komandās vienlaikus!

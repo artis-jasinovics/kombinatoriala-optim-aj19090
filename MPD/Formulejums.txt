@@ -1,0 +1,3 @@
+Ir dotas m telpas, kur katrai ir ietilpība size[i] - cik cilvēki var piedalīties, un arī noteikts tehniskais aprīkojus p[i] - ir/nav projektors, v[i] - ir/nav videokonferenču apratūra.
+Uzņēmumā ir n darbinieki un k projekti. Katrs darbinieks piedalās vienā vai vairākos pŗojektos. Projekti rīko sanāksmes, kurās jāpiedalās visiem projekta dalībniekiem un kuras var prasīt noteiktu tehnisko aprīkojumu - projektoru vai videokonferenci. Sanāksmei ir arī plānotais ilgums.
+Saplānot sanāksmju grafiku - piekārtot telpu un sākuma laiku tā, lai visi darbiniekiem sanāksmju laiki nepārklājās, sanāksmēm ir piemērotas telpas un aprīkojums.
